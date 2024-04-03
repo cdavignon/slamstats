@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="toolbarMain">Main Fragment</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="Description">Use the following inputs below\nto show the standings from\nthe top 15 basketball leagues\n
+(Refer to list provided)</string>
+    <string name="LeagueIDLabel">League ID:</string>
+    <string name="SeasonLabel">Year of Season:</string>
+    <string name="Generate">GENERATE</string>
+    <string name="appInfo">This is an app that was created by Cole Davignon and Brooks Jackson.\nIt allows a user to
+    input a number from the provided list, and the season\n which shows the rankings from that basketball season. </string>
+</resources>
